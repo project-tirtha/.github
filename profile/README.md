@@ -7,12 +7,8 @@
     <!-- Project Tirtha -->
 </h1>
 
----
-
 [![Element Chat Room](https://img.shields.io/matrix/tirtha%3Amatrix.org?style=for-the-badge&logo=element)](https://matrix.to/#/#tirtha:matrix.org) [![Signal Group](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.group/#CjQKIN_Ry9rBYUZJn8pLEkfWMAkZvO2FGopPalXsWPMZauXyEhBT1GdJYb5C_PJV0qE5VTLj) 
 [![GitHub Discussions](https://img.shields.io/github/discussions/project-tirtha/tirtha-public?style=for-the-badge&logo=github)](https://github.com/project-tirtha/tirtha-public/discussions)
-
----
 
 **Project Tirtha** is an open academic initiative focused on building high-quality 3D models of cultural heritage sites using crowdsourced images. The word _Tirtha_ is Sanskrit for "a place of pilgrimage", commonly referring to sacred sites across Hinduism, Jainism, and Buddhism.
 
