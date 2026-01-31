@@ -21,4 +21,7 @@ All projects under this organization are fully open-source and under active deve
 Learn more at <https://smlab.niser.ac.in/project/tirtha/> and explore our repositories to get involved. The main repository for the platform is: https://github.com/project-tirtha/tirtha-public.
 
 > [!important]
-> **Google Summer of Code aspirants**, please go here for the project topics: https://docs.google.com/document/d/1p5UxgoKBhy5pQh3fXX00BftcmJxzxdFLOkrB3Hibfm4.
+> For **Google Summer of Code aspirants**:
+> 
+> We plan to apply to Google Summer of Code 2026 as an organization, but note that we are not yet accepted.
+> For now,  please go here for the expected project topics: https://docs.google.com/document/d/1p5UxgoKBhy5pQh3fXX00BftcmJxzxdFLOkrB3Hibfm4.
